@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MVP_Test</string>
+    <string-array name="type">
+        <item>type</item>
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
 </resources>
